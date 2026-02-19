@@ -65,5 +65,5 @@ git clone https://github.com/your-username/PixelDigitalSolution.git
 cd PixelDigitalSolution
 npm install
 npm start
-![WhatsApp Image 2026-02-18 at 9 58 56 AM (1)](https://github.com/user-attachments/assets/07dd45d1-1e20-4839-a139-986bf7c01b59)
+
 
