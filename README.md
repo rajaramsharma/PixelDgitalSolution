@@ -100,9 +100,10 @@ POST	/api/auth/login	Login user
 GET	/api/products	Get all products
 POST	/api/orders	Place new order
 GET	/api/orders/:id	Get order details
+
+
+
 📸 Preview
-
-
 ![signin page]
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-18 001312 - Copy" src="https://github.com/user-attachments/assets/a61f0ee5-f758-42cd-b3c1-417e53f6bc2a" />
